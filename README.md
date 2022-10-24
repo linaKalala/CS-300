@@ -1,1 +1,1 @@
-# CS-300
+This was one of the most interisting project I have worked this semester. One of the roadblock I had was to use Binary and hashtable, and I was able to overcome this situation by googling and using YouTube. 
